@@ -1,19 +1,26 @@
 .container {
   margin-top: 50px;
+  text-align: center;
+
 }
  .row {
    text-align: center;
    padding: 30px;
  }
 
-.header h1 {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+header {
+  background-color: #b3f0ff;
+  padding: 30px;
 }
 
 .panel {
-border-color: black;
+  border-color: black;
   margin: 5px;
+  width: 200px;
+  height: 200px;
 
+}
+
+.modal-header {
+  background-color: #b3f0ff;
 }
