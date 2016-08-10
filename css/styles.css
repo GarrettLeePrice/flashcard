@@ -2,6 +2,7 @@
  .row {
    text-align: center;
    padding: 30px;
+   margin-left: 120px;
  }
 
 header {
@@ -20,4 +21,17 @@ header {
 
 .modal-header {
   background-color: #b3f0ff;
+}
+
+.container {
+  margin-left: auto;
+}
+
+
+.glyphicon {
+  margin-top: 10px;
+  font-size:120px;
+  display: block;
+  text-align: center;
+  color: red;
 }
